@@ -13,7 +13,7 @@ export default function Home() {
 
       <h1 className="text-5xl font-extrabold tracking-tight mb-2 text-center">Fred Hyeonuk Nam</h1>
       <p className="text-lg text-center text-gray-400 mb-10">
-        Researcher · Musician · Guitar Luthier
+        Designing structures that reveal human thinking — with sound as my wedge.
       </p>
 
       <div className="flex flex-col items-center gap-6 w-full max-w-xs">
